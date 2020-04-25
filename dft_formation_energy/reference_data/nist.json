@@ -1,0 +1,1304 @@
+[
+    {
+      "Species": "Aluminium",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Aluminium",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Al",
+      "ΔfH o (kJ/mol)": "0"
+    },
+    {
+      "Species": "Aluminium chloride",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "AlCl3",
+      "ΔfH o (kJ/mol)": "−705.63"
+    },
+    {
+      "Species": "Aluminium oxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Al2O3",
+      "ΔfH o (kJ/mol)": "−1669.8"
+    },
+    {
+      "Species": "Aluminium hydroxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Al(OH)3",
+      "ΔfH o (kJ/mol)": "−1277"
+    },
+    {
+      "Species": "Aluminium sulphate",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Al2(SO4)3",
+      "ΔfH o (kJ/mol)": "−3440"
+    },
+    {
+      "Species": "Barium",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Barium chloride",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "BaCl2",
+      "ΔfH o (kJ/mol)": "−858.6"
+    },
+    {
+      "Species": "Barium carbonate",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "BaCO3",
+      "ΔfH o (kJ/mol)": "−1213"
+    },
+    {
+      "Species": "Barium hydroxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Ba(OH)2",
+      "ΔfH o (kJ/mol)": "−944.7"
+    },
+    {
+      "Species": "Barium oxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "BaO",
+      "ΔfH o (kJ/mol)": "−548.1"
+    },
+    {
+      "Species": "Barium sulfate",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "BaSO4",
+      "ΔfH o (kJ/mol)": "−1473.2"
+    },
+    {
+      "Species": "Beryllium",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Beryllium",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Be",
+      "ΔfH o (kJ/mol)": "0"
+    },
+    {
+      "Species": "Beryllium hydroxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Be(OH)2",
+      "ΔfH o (kJ/mol)": "−902.9999"
+    },
+    {
+      "Species": "Beryllium oxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "BeO",
+      "ΔfH o (kJ/mol)": "−609.4(25)"
+    },
+    {
+      "Species": "Boron",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Boron trichloride",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "BCl3",
+      "ΔfH o (kJ/mol)": "−402.96"
+    },
+    {
+      "Species": "Bromine",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Bromine",
+      "Phase(Matter)": "Liquid",
+      "Chemical Formula": "Br2",
+      "ΔfH o (kJ/mol)": "0"
+    },
+    {
+      "Species": "Bromine",
+      "Phase(Matter)": "Liquid",
+      "Chemical Formula": "Br−",
+      "ΔfH o (kJ/mol)": "−121"
+    },
+    {
+      "Species": "Bromine",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "Br",
+      "ΔfH o (kJ/mol)": "111.884"
+    },
+    {
+      "Species": "Bromine",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "Br2",
+      "ΔfH o (kJ/mol)": "30.91"
+    },
+    {
+      "Species": "Bromine trifluoride",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "BrF3",
+      "ΔfH o (kJ/mol)": "−255.60"
+    },
+    {
+      "Species": "Hydrobromic acid",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "HBr",
+      "ΔfH o (kJ/mol)": "−36.29"
+    },
+    {
+      "Species": "Cadmium",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Cadmium",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Cd",
+      "ΔfH o (kJ/mol)": "0"
+    },
+    {
+      "Species": "Cadmium oxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "CdO",
+      "ΔfH o (kJ/mol)": "−258"
+    },
+    {
+      "Species": "Cadmium hydroxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Cd(OH)2",
+      "ΔfH o (kJ/mol)": "−561"
+    },
+    {
+      "Species": "Cadmium sulfide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "CdS",
+      "ΔfH o (kJ/mol)": "−162"
+    },
+    {
+      "Species": "Cadmium sulfate",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "CdSO4",
+      "ΔfH o (kJ/mol)": "−935"
+    },
+    {
+      "Species": "Calcium",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Calcium",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Ca",
+      "ΔfH o (kJ/mol)": "0"
+    },
+    {
+      "Species": "Calcium",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "Ca",
+      "ΔfH o (kJ/mol)": "178.2"
+    },
+    {
+      "Species": "Calcium(II) ion",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "Ca2+",
+      "ΔfH o (kJ/mol)": "1925.90"
+    },
+    {
+      "Species": "Calcium carbide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "CaC2",
+      "ΔfH o (kJ/mol)": "−59.8"
+    },
+    {
+      "Species": "Calcium carbonate (Calcite)",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "CaCO3",
+      "ΔfH o (kJ/mol)": "−1206.9"
+    },
+    {
+      "Species": "Calcium chloride",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "CaCl2",
+      "ΔfH o (kJ/mol)": "−795.8"
+    },
+    {
+      "Species": "Calcium chloride",
+      "Phase(Matter)": "Aqueous",
+      "Chemical Formula": "CaCl2",
+      "ΔfH o (kJ/mol)": "−877.3"
+    },
+    {
+      "Species": "Calcium phosphate",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Ca3(PO4)2",
+      "ΔfH o (kJ/mol)": "−4132"
+    },
+    {
+      "Species": "Calcium fluoride",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "CaF2",
+      "ΔfH o (kJ/mol)": "−1219.6"
+    },
+    {
+      "Species": "Calcium hydride",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "CaH2",
+      "ΔfH o (kJ/mol)": "−186.2"
+    },
+    {
+      "Species": "Calcium hydroxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Ca(OH)2",
+      "ΔfH o (kJ/mol)": "−986.09"
+    },
+    {
+      "Species": "Calcium hydroxide",
+      "Phase(Matter)": "Aqueous",
+      "Chemical Formula": "Ca(OH)2",
+      "ΔfH o (kJ/mol)": "−1002.82"
+    },
+    {
+      "Species": "Calcium oxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "CaO",
+      "ΔfH o (kJ/mol)": "−635.09"
+    },
+    {
+      "Species": "Calcium sulfate",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "CaSO4",
+      "ΔfH o (kJ/mol)": "−1434.52"
+    },
+    {
+      "Species": "Calcium sulfide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "CaS",
+      "ΔfH o (kJ/mol)": "−482.4"
+    },
+    {
+      "Species": "Wollastonite",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "CaSiO3",
+      "ΔfH o (kJ/mol)": "−1630"
+    },
+    {
+      "Species": "Carbon",
+      "Phase(Matter)": "Alkanes Above",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Benzene",
+      "Phase(Matter)": "Liquid",
+      "Chemical Formula": "C6H6",
+      "ΔfH o (kJ/mol)": "48.95"
+    },
+    {
+      "Species": "Benzoic acid",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "C7H6O2",
+      "ΔfH o (kJ/mol)": "−385.2"
+    },
+    {
+      "Species": "Glucose",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "C6H12O6",
+      "ΔfH o (kJ/mol)": "−1271"
+    },
+    {
+      "Species": "Carbon (Graphite)",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "C",
+      "ΔfH o (kJ/mol)": "0"
+    },
+    {
+      "Species": "Carbon (Diamond)",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "C",
+      "ΔfH o (kJ/mol)": "1.9"
+    },
+    {
+      "Species": "Carbon",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "C",
+      "ΔfH o (kJ/mol)": "716.67"
+    },
+    {
+      "Species": "Carbon dioxide",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "CO2",
+      "ΔfH o (kJ/mol)": "−393.509"
+    },
+    {
+      "Species": "Carbon disulfide",
+      "Phase(Matter)": "Liquid",
+      "Chemical Formula": "CS2",
+      "ΔfH o (kJ/mol)": "89.41"
+    },
+    {
+      "Species": "Carbon disulfide",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "CS2",
+      "ΔfH o (kJ/mol)": "116.7"
+    },
+    {
+      "Species": "Carbon monoxide",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "CO",
+      "ΔfH o (kJ/mol)": "−110.525"
+    },
+    {
+      "Species": "Carbon tetrachloride",
+      "Phase(Matter)": "Liquid",
+      "Chemical Formula": "CCl4",
+      "ΔfH o (kJ/mol)": "−135.4"
+    },
+    {
+      "Species": "Carbon tetrachloride",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "CCl4",
+      "ΔfH o (kJ/mol)": "−95.98"
+    },
+    {
+      "Species": "Carbonyl chloride (Phosgene)",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "COCl2",
+      "ΔfH o (kJ/mol)": "−218.8"
+    },
+    {
+      "Species": "Ethane",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "C2H6",
+      "ΔfH o (kJ/mol)": "−83.85"
+    },
+    {
+      "Species": "Ethanol",
+      "Phase(Matter)": "Liquid",
+      "Chemical Formula": "C2H5OH",
+      "ΔfH o (kJ/mol)": "−277.0"
+    },
+    {
+      "Species": "Ethanol",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "C2H5OH",
+      "ΔfH o (kJ/mol)": "−235.3"
+    },
+    {
+      "Species": "Ethene",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "C2H4",
+      "ΔfH o (kJ/mol)": "52.3"
+    },
+    {
+      "Species": "Vinyl chloride",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "C2H3Cl",
+      "ΔfH o (kJ/mol)": "−94.12"
+    },
+    {
+      "Species": "Ethyne",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "C2H2",
+      "ΔfH o (kJ/mol)": "226.73"
+    },
+    {
+      "Species": "Methane",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "CH4",
+      "ΔfH o (kJ/mol)": "−74.87"
+    },
+    {
+      "Species": "Methanol (methyl alcohol)",
+      "Phase(Matter)": "Liquid",
+      "Chemical Formula": "CH3OH",
+      "ΔfH o (kJ/mol)": "−238.4"
+    },
+    {
+      "Species": "Methanol (methyl alcohol)",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "CH3OH",
+      "ΔfH o (kJ/mol)": "−201.0"
+    },
+    {
+      "Species": "Methyl linoleate (Biodiesel)",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "C19H34O2",
+      "ΔfH o (kJ/mol)": "−356.3"
+    },
+    {
+      "Species": "Methyl trichloride (Chloroform)",
+      "Phase(Matter)": "Liquid",
+      "Chemical Formula": "CHCl3",
+      "ΔfH o (kJ/mol)": "−134.47"
+    },
+    {
+      "Species": "Methyl trichloride (Chloroform)",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "CHCl3",
+      "ΔfH o (kJ/mol)": "−103.18"
+    },
+    {
+      "Species": "Propane",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "C3H8",
+      "ΔfH o (kJ/mol)": "−104.7"
+    },
+    {
+      "Species": "CO2 (aq, unionized)",
+      "Phase(Matter)": "Aqueous",
+      "Chemical Formula": "CO2(aq)",
+      "ΔfH o (kJ/mol)": "−419.26"
+    },
+    {
+      "Species": "HCO3",
+      "Phase(Matter)": "",
+      "Chemical Formula": "HCO3",
+      "ΔfH o (kJ/mol)": "−689.93"
+    },
+    {
+      "Species": "Carbon trioxide",
+      "Phase(Matter)": "",
+      "Chemical Formula": "CO3",
+      "ΔfH o (kJ/mol)": "−675.23"
+    },
+    {
+      "Species": "Cesium",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Cesium",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Cs",
+      "ΔfH o (kJ/mol)": "0"
+    },
+    {
+      "Species": "Cesium",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "Cs",
+      "ΔfH o (kJ/mol)": "76.50"
+    },
+    {
+      "Species": "Cesium",
+      "Phase(Matter)": "Liquid",
+      "Chemical Formula": "Cs",
+      "ΔfH o (kJ/mol)": "2.09"
+    },
+    {
+      "Species": "Cesium(I) ion",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "Cs+",
+      "ΔfH o (kJ/mol)": "457.964"
+    },
+    {
+      "Species": "Cesium chloride",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "CsCl",
+      "ΔfH o (kJ/mol)": "−443.04"
+    },
+    {
+      "Species": "Chlorine",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Monatomic chlorine",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "Cl",
+      "ΔfH o (kJ/mol)": "121.7"
+    },
+    {
+      "Species": "Chloride ion",
+      "Phase(Matter)": "Aqueous",
+      "Chemical Formula": "Cl−",
+      "ΔfH o (kJ/mol)": "−167.2"
+    },
+    {
+      "Species": "Chlorine",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "Cl2",
+      "ΔfH o (kJ/mol)": "0"
+    },
+    {
+      "Species": "Chromium",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Chromium",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Cr",
+      "ΔfH o (kJ/mol)": "0"
+    },
+    {
+      "Species": "Copper",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Copper",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Cu",
+      "ΔfH o (kJ/mol)": "0"
+    },
+    {
+      "Species": "Copper(II) oxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "CuO",
+      "ΔfH o (kJ/mol)": "−155.2"
+    },
+    {
+      "Species": "Fluorine",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Fluorine",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "F2",
+      "ΔfH o (kJ/mol)": "0"
+    },
+    {
+      "Species": "Hydrogen",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Monatomic hydrogen",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "H",
+      "ΔfH o (kJ/mol)": "218"
+    },
+    {
+      "Species": "Hydrogen",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "H2",
+      "ΔfH o (kJ/mol)": "0"
+    },
+    {
+      "Species": "Water",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "H2O",
+      "ΔfH o (kJ/mol)": "−241.818"
+    },
+    {
+      "Species": "Water",
+      "Phase(Matter)": "Liquid",
+      "Chemical Formula": "H2O",
+      "ΔfH o (kJ/mol)": "−285.8"
+    },
+    {
+      "Species": "Hydrogen ion",
+      "Phase(Matter)": "Aqueous",
+      "Chemical Formula": "H+",
+      "ΔfH o (kJ/mol)": "0"
+    },
+    {
+      "Species": "Hydrogen peroxide",
+      "Phase(Matter)": "Liquid",
+      "Chemical Formula": "H2O2",
+      "ΔfH o (kJ/mol)": "−187.8"
+    },
+    {
+      "Species": "Phosphoric acid",
+      "Phase(Matter)": "Liquid",
+      "Chemical Formula": "H3PO4",
+      "ΔfH o (kJ/mol)": "−1288"
+    },
+    {
+      "Species": "Hydrogen cyanide",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "HCN",
+      "ΔfH o (kJ/mol)": "+130.5"
+    },
+    {
+      "Species": "Hydrogen bromide",
+      "Phase(Matter)": "Liquid",
+      "Chemical Formula": "HBr",
+      "ΔfH o (kJ/mol)": "−36.3"
+    },
+    {
+      "Species": "Hydrogen chloride",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "HCl",
+      "ΔfH o (kJ/mol)": "−92.30"
+    },
+    {
+      "Species": "Hydrogen chloride",
+      "Phase(Matter)": "Aqueous",
+      "Chemical Formula": "HCl",
+      "ΔfH o (kJ/mol)": "−167.2"
+    },
+    {
+      "Species": "Hydrogen fluoride",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "HF",
+      "ΔfH o (kJ/mol)": "−269"
+    },
+    {
+      "Species": "Hydrogen iodide",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "HI",
+      "ΔfH o (kJ/mol)": "+26.5"
+    },
+    {
+      "Species": "Iodine",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Iodine",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "I2",
+      "ΔfH o (kJ/mol)": "0"
+    },
+    {
+      "Species": "Iodine",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "I2",
+      "ΔfH o (kJ/mol)": "62.438"
+    },
+    {
+      "Species": "Iodine",
+      "Phase(Matter)": "Aqueous",
+      "Chemical Formula": "I2",
+      "ΔfH o (kJ/mol)": "23"
+    },
+    {
+      "Species": "Iodide ion",
+      "Phase(Matter)": "Aqueous",
+      "Chemical Formula": "I−",
+      "ΔfH o (kJ/mol)": "−55"
+    },
+    {
+      "Species": "Iron",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Iron",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Fe",
+      "ΔfH o (kJ/mol)": "0"
+    },
+    {
+      "Species": "Iron carbide (Cementite)",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Fe3C",
+      "ΔfH o (kJ/mol)": "5.4"
+    },
+    {
+      "Species": "Iron(II) carbonate (Siderite)",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "FeCO3",
+      "ΔfH o (kJ/mol)": "-750.6"
+    },
+    {
+      "Species": "Iron(III) chloride",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "FeCl3",
+      "ΔfH o (kJ/mol)": "−399.4"
+    },
+    {
+      "Species": "Iron(II) oxide (Wüstite)",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "FeO",
+      "ΔfH o (kJ/mol)": "−272"
+    },
+    {
+      "Species": "Iron(II,III) oxide (Magnetite)",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Fe3O4",
+      "ΔfH o (kJ/mol)": "−1118"
+    },
+    {
+      "Species": "Iron(III) oxide (Hematite)",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Fe2O3",
+      "ΔfH o (kJ/mol)": "−824.2"
+    },
+    {
+      "Species": "Iron(II) sulfate",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "FeSO4",
+      "ΔfH o (kJ/mol)": "−929"
+    },
+    {
+      "Species": "Iron(III) sulfate",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Fe2(SO4)3",
+      "ΔfH o (kJ/mol)": "−2583"
+    },
+    {
+      "Species": "Iron(II) sulfide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "FeS",
+      "ΔfH o (kJ/mol)": "−102"
+    },
+    {
+      "Species": "Pyrite",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "FeS2",
+      "ΔfH o (kJ/mol)": "−178"
+    },
+    {
+      "Species": "Lead",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Lead",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Pb",
+      "ΔfH o (kJ/mol)": "0"
+    },
+    {
+      "Species": "Lead dioxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "PbO2",
+      "ΔfH o (kJ/mol)": "−277"
+    },
+    {
+      "Species": "Lead sulfide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "PbS",
+      "ΔfH o (kJ/mol)": "−100"
+    },
+    {
+      "Species": "Lead sulfate",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "PbSO4",
+      "ΔfH o (kJ/mol)": "−920"
+    },
+    {
+      "Species": "Lead(II) nitrate",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Pb(NO3)2",
+      "ΔfH o (kJ/mol)": "−452"
+    },
+    {
+      "Species": "Lead(II) sulfate",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "PbSO4",
+      "ΔfH o (kJ/mol)": "−920"
+    },
+    {
+      "Species": "Magnesium",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Magnesium",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Mg",
+      "ΔfH o (kJ/mol)": "0"
+    },
+    {
+      "Species": "Magnesium ion",
+      "Phase(Matter)": "Aqueous",
+      "Chemical Formula": "Mg2+",
+      "ΔfH o (kJ/mol)": "−466.85"
+    },
+    {
+      "Species": "Magnesium carbonate",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "MgCO3",
+      "ΔfH o (kJ/mol)": "−1095.797"
+    },
+    {
+      "Species": "Magnesium chloride",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "MgCl2",
+      "ΔfH o (kJ/mol)": "−641.8"
+    },
+    {
+      "Species": "Magnesium hydroxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Mg(OH)2",
+      "ΔfH o (kJ/mol)": "−924.54"
+    },
+    {
+      "Species": "Magnesium hydroxide",
+      "Phase(Matter)": "Aqueous",
+      "Chemical Formula": "Mg(OH)2",
+      "ΔfH o (kJ/mol)": "−926.8"
+    },
+    {
+      "Species": "Magnesium oxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "MgO",
+      "ΔfH o (kJ/mol)": "−601.6"
+    },
+    {
+      "Species": "Magnesium sulfate",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "MgSO4",
+      "ΔfH o (kJ/mol)": "−1278.2"
+    },
+    {
+      "Species": "Manganese",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Manganese",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Mn",
+      "ΔfH o (kJ/mol)": "0"
+    },
+    {
+      "Species": "Manganese(II) oxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "MnO",
+      "ΔfH o (kJ/mol)": "−384.9"
+    },
+    {
+      "Species": "Manganese(IV) oxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "MnO2",
+      "ΔfH o (kJ/mol)": "−519.7"
+    },
+    {
+      "Species": "Manganese(III) oxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Mn2O3",
+      "ΔfH o (kJ/mol)": "−971"
+    },
+    {
+      "Species": "Manganese(II,III) oxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Mn3O4",
+      "ΔfH o (kJ/mol)": "−1387"
+    },
+    {
+      "Species": "Permanganate",
+      "Phase(Matter)": "Aqueous",
+      "Chemical Formula": "MnO4−",
+      "ΔfH o (kJ/mol)": "−543"
+    },
+    {
+      "Species": "Mercury",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Mercury(II) oxide (red)",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "HgO",
+      "ΔfH o (kJ/mol)": "−90.83"
+    },
+    {
+      "Species": "Mercury sulfide (red, cinnabar)",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "HgS",
+      "ΔfH o (kJ/mol)": "−58.2"
+    },
+    {
+      "Species": "Nickel",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Nitrogen",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Ammonia",
+      "Phase(Matter)": "Aqueous",
+      "Chemical Formula": "NH3",
+      "ΔfH o (kJ/mol)": "−80.8"
+    },
+    {
+      "Species": "Ammonia",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "NH3",
+      "ΔfH o (kJ/mol)": "−45.90"
+    },
+    {
+      "Species": "Ammonium chloride",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "NH4Cl",
+      "ΔfH o (kJ/mol)": "−314.55"
+    },
+    {
+      "Species": "Nitrogen dioxide",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "NO2",
+      "ΔfH o (kJ/mol)": "33.2"
+    },
+    {
+      "Species": "Nitrous oxide",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "N2O",
+      "ΔfH o (kJ/mol)": "82.05"
+    },
+    {
+      "Species": "Nitric oxide",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "NO",
+      "ΔfH o (kJ/mol)": "90.29"
+    },
+    {
+      "Species": "Dinitrogen tetroxide",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "N2O4",
+      "ΔfH o (kJ/mol)": "9.16"
+    },
+    {
+      "Species": "Dinitrogen pentoxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "N2O5",
+      "ΔfH o (kJ/mol)": "−43.1"
+    },
+    {
+      "Species": "Dinitrogen pentoxide",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "N2O5",
+      "ΔfH o (kJ/mol)": "11.3"
+    },
+    {
+      "Species": "Oxygen",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Monatomic oxygen",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "O",
+      "ΔfH o (kJ/mol)": "249"
+    },
+    {
+      "Species": "Oxygen",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "O2",
+      "ΔfH o (kJ/mol)": "0"
+    },
+    {
+      "Species": "Ozone",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "O3",
+      "ΔfH o (kJ/mol)": "143"
+    },
+    {
+      "Species": "Phosphorus",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Phosphorus trichloride",
+      "Phase(Matter)": "Liquid",
+      "Chemical Formula": "PCl3",
+      "ΔfH o (kJ/mol)": "−319.7"
+    },
+    {
+      "Species": "Phosphorus trichloride",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "PCl3",
+      "ΔfH o (kJ/mol)": "−278"
+    },
+    {
+      "Species": "Phosphorus pentachloride",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "PCl5",
+      "ΔfH o (kJ/mol)": "−440"
+    },
+    {
+      "Species": "Potassium",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Potassium bromide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "KBr",
+      "ΔfH o (kJ/mol)": "−392.2"
+    },
+    {
+      "Species": "Potassium carbonate",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "K2CO3",
+      "ΔfH o (kJ/mol)": "−1150"
+    },
+    {
+      "Species": "Potassium chlorate",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "KClO3",
+      "ΔfH o (kJ/mol)": "−391.4"
+    },
+    {
+      "Species": "Potassium chloride",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "KCl",
+      "ΔfH o (kJ/mol)": "−436.68"
+    },
+    {
+      "Species": "Potassium fluoride",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "KF",
+      "ΔfH o (kJ/mol)": "−562.6"
+    },
+    {
+      "Species": "Potassium oxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "K2O",
+      "ΔfH o (kJ/mol)": "−363"
+    },
+    {
+      "Species": "Potassium perchlorate",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "KClO4",
+      "ΔfH o (kJ/mol)": "−430.12"
+    },
+    {
+      "Species": "Silicon",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Silicon",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "Si",
+      "ΔfH o (kJ/mol)": "368.2"
+    },
+    {
+      "Species": "Silicon carbide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "SiC",
+      "ΔfH o (kJ/mol)": "−73.22"
+    },
+    {
+      "Species": "Silicon tetrachloride",
+      "Phase(Matter)": "Liquid",
+      "Chemical Formula": "SiCl4",
+      "ΔfH o (kJ/mol)": "−640.1"
+    },
+    {
+      "Species": "Silica (Quartz)",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "SiO2",
+      "ΔfH o (kJ/mol)": "−910.86"
+    },
+    {
+      "Species": "Silver",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Silver bromide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "AgBr",
+      "ΔfH o (kJ/mol)": "−99.5"
+    },
+    {
+      "Species": "Silver chloride",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "AgCl",
+      "ΔfH o (kJ/mol)": "−127.01"
+    },
+    {
+      "Species": "Silver iodide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "AgI",
+      "ΔfH o (kJ/mol)": "−62.4"
+    },
+    {
+      "Species": "Silver oxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Ag2O",
+      "ΔfH o (kJ/mol)": "−31.1"
+    },
+    {
+      "Species": "Silver sulfide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Ag2S",
+      "ΔfH o (kJ/mol)": "−31.8"
+    },
+    {
+      "Species": "Sodium",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Sodium carbonate",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Na2CO3",
+      "ΔfH o (kJ/mol)": "−1130.77"
+    },
+    {
+      "Species": "Sodium chloride",
+      "Phase(Matter)": "Aqueous",
+      "Chemical Formula": "NaCl",
+      "ΔfH o (kJ/mol)": "−407.27"
+    },
+    {
+      "Species": "Sodium chloride",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "NaCl",
+      "ΔfH o (kJ/mol)": "−411.12"
+    },
+    {
+      "Species": "Sodium chloride",
+      "Phase(Matter)": "Liquid",
+      "Chemical Formula": "NaCl",
+      "ΔfH o (kJ/mol)": "−385.92"
+    },
+    {
+      "Species": "Sodium chloride",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "NaCl",
+      "ΔfH o (kJ/mol)": "−181.42"
+    },
+    {
+      "Species": "Sodium fluoride",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "NaF",
+      "ΔfH o (kJ/mol)": "−569.0"
+    },
+    {
+      "Species": "Sodium hydroxide",
+      "Phase(Matter)": "Aqueous",
+      "Chemical Formula": "NaOH",
+      "ΔfH o (kJ/mol)": "−469.15"
+    },
+    {
+      "Species": "Sodium hydroxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "NaOH",
+      "ΔfH o (kJ/mol)": "−425.93"
+    },
+    {
+      "Species": "Sodium nitrate",
+      "Phase(Matter)": "Aqueous",
+      "Chemical Formula": "NaNO3",
+      "ΔfH o (kJ/mol)": "−446.2"
+    },
+    {
+      "Species": "Sodium nitrate",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "NaNO3",
+      "ΔfH o (kJ/mol)": "−424.8"
+    },
+    {
+      "Species": "Sodium oxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "Na2O",
+      "ΔfH o (kJ/mol)": "−414.2"
+    },
+    {
+      "Species": "Sulfur",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Hydrogen sulfide",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "H2S",
+      "ΔfH o (kJ/mol)": "−20.63"
+    },
+    {
+      "Species": "Sulfur dioxide",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "SO2",
+      "ΔfH o (kJ/mol)": "−296.84"
+    },
+    {
+      "Species": "Sulfur trioxide",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "SO3",
+      "ΔfH o (kJ/mol)": "−395.7"
+    },
+    {
+      "Species": "Sulfuric acid",
+      "Phase(Matter)": "Liquid",
+      "Chemical Formula": "H2SO4",
+      "ΔfH o (kJ/mol)": "−814"
+    },
+    {
+      "Species": "Tin",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Titanium",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Titanium",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "Ti",
+      "ΔfH o (kJ/mol)": "468"
+    },
+    {
+      "Species": "Titanium tetrachloride",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "TiCl4",
+      "ΔfH o (kJ/mol)": "−763.2"
+    },
+    {
+      "Species": "Titanium tetrachloride",
+      "Phase(Matter)": "Liquid",
+      "Chemical Formula": "TiCl4",
+      "ΔfH o (kJ/mol)": "−804.2"
+    },
+    {
+      "Species": "Titanium dioxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "TiO2",
+      "ΔfH o (kJ/mol)": "−944.7"
+    },
+    {
+      "Species": "Zinc",
+      "Phase(Matter)": "",
+      "Chemical Formula": "",
+      "ΔfH o (kJ/mol)": ""
+    },
+    {
+      "Species": "Zinc",
+      "Phase(Matter)": "Gas",
+      "Chemical Formula": "Zn",
+      "ΔfH o (kJ/mol)": "130.7"
+    },
+    {
+      "Species": "Zinc chloride",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "ZnCl2",
+      "ΔfH o (kJ/mol)": "−415.1"
+    },
+    {
+      "Species": "Zinc oxide",
+      "Phase(Matter)": "Solid",
+      "Chemical Formula": "ZnO",
+      "ΔfH o (kJ/mol)": "−348.0"
+    }
+   ]
